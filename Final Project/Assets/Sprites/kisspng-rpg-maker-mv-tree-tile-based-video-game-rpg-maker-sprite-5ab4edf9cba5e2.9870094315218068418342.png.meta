@@ -1,0 +1,1351 @@
+fileFormatVersion: 2
+guid: e99a220ed3ede694da69b6e5f3db59ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4757742904136452977
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_0
+  - first:
+      213: -8927501947746467315
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_1
+  - first:
+      213: -1124950605057478569
+    second: Oak_tree
+  - first:
+      213: -8787313637858536319
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_3
+  - first:
+      213: -4022165491346672841
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_4
+  - first:
+      213: 4736164094233766797
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_5
+  - first:
+      213: 1633832240263570905
+    second: Oak_Tree
+  - first:
+      213: 8446360760836327663
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_7
+  - first:
+      213: -4269549617264977662
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_8
+  - first:
+      213: -819387793035476574
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_9
+  - first:
+      213: -7347126970610265358
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_10
+  - first:
+      213: -6141533854113784123
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_11
+  - first:
+      213: 8688585083166978860
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_12
+  - first:
+      213: -2633821535713830750
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_13
+  - first:
+      213: -2727469901997249090
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_14
+  - first:
+      213: -2622234261695356098
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_15
+  - first:
+      213: -7982630611734884199
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_16
+  - first:
+      213: -1250774153115656194
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_17
+  - first:
+      213: -1028365021313205167
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_18
+  - first:
+      213: -8656636608391735023
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_19
+  - first:
+      213: -206750301645929563
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_20
+  - first:
+      213: 6232175870957659215
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_21
+  - first:
+      213: -1850336945101785673
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_22
+  - first:
+      213: 6077142943986353159
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_23
+  - first:
+      213: 2246480989596701728
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_24
+  - first:
+      213: 6838636427747906258
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_25
+  - first:
+      213: -8897353811242360562
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_26
+  - first:
+      213: -8089192134147958348
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_27
+  - first:
+      213: -2626142354959476414
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_28
+  - first:
+      213: -8722005515453783110
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_29
+  - first:
+      213: 5963996750904559142
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_30
+  - first:
+      213: 4602573826476276400
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_31
+  - first:
+      213: 7272431110825744003
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_32
+  - first:
+      213: 1650411495257189214
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_33
+  - first:
+      213: -4087460352422794289
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_34
+  - first:
+      213: 6993246994405243860
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_35
+  - first:
+      213: -1190693808146217842
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_36
+  - first:
+      213: 2207945986381031613
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_37
+  - first:
+      213: 3177675776216833936
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_38
+  - first:
+      213: 1243135037783345445
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_39
+  - first:
+      213: 5463559400550739777
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_40
+  - first:
+      213: -1273269176220810476
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_41
+  - first:
+      213: 4795789274672709563
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_42
+  - first:
+      213: -7809523315585030911
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_43
+  - first:
+      213: -8494894030814372935
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_44
+  - first:
+      213: -8919180761902621732
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_45
+  - first:
+      213: 3769916735289775008
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_46
+  - first:
+      213: 8071941613006474607
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_47
+  - first:
+      213: 3458599286571274848
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_48
+  - first:
+      213: -225305987797878327
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_49
+  - first:
+      213: 3376313771478540859
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_50
+  - first:
+      213: -5534966171371142994
+    second: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_51
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 960
+        width: 145
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c94c809ccd7ed43a6fb58c4be44858
+      internalID: -4757742904136452977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 960
+        width: 185
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e6e92db1ba06a498d2553051c41870
+      internalID: -8927501947746467315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oak_tree
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 960
+        width: 141
+        height: 202
+      alignment: 9
+      pivot: {x: 0.48773497, y: 0.14043102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d648b253bd56cd64c89712f552cd166c
+      internalID: -1124950605057478569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_3
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 960
+        width: 202
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f667752b5a14d459a7e13dfa78b8de
+      internalID: -8787313637858536319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_4
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 960
+        width: 136
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d376258db81d24aa7b1d9fe38eebd4
+      internalID: -4022165491346672841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_5
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 913
+        width: 140
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137232a497a7f4c40a7c80f1c6286ff4
+      internalID: 4736164094233766797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oak_Tree
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 864
+        width: 91
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7215453b5faeadf419059354fb0fa7c4
+      internalID: 1633832240263570905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 867
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d8960dc4e871e47a4ee05c7df827ab
+      internalID: 8446360760836327663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_8
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 866
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f512a2c82d97e744daea0afc633746f8
+      internalID: -4269549617264977662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_9
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 876
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b039ed0f208a74085c075931c5fc6c
+      internalID: -819387793035476574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_10
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 872
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837e25b64dade4f488cde82b0d0377e7
+      internalID: -7347126970610265358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_11
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 869
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c925da041f487af42a7326a13724450b
+      internalID: -6141533854113784123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_12
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 870
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f921ed00031ce1c46a077ae3dc08a0f6
+      internalID: 8688585083166978860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 624
+        width: 145
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c4a2a4864acff438dfb69c16d44cd3
+      internalID: -2633821535713830750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_14
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 624
+        width: 186
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bf428da5ad55a46b19ce25a7ef1dd5
+      internalID: -2727469901997249090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_15
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 624
+        width: 141
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbb3830a7efd8643a72fc5e50846ff8
+      internalID: -2622234261695356098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_16
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 624
+        width: 203
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4d1017f0bbabb4db4be75d3aa51544
+      internalID: -7982630611734884199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_17
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 624
+        width: 136
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d159df96b0876469fb5a4a4abc0220
+      internalID: -1250774153115656194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_18
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 577
+        width: 140
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0395e17d51c1a83409c800aa826b3437
+      internalID: -1028365021313205167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_19
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 528
+        width: 91
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2161714413c696d4d98e063c74653a04
+      internalID: -8656636608391735023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_20
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 531
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b1e4811f49f9a448f9386c3aacfb4c
+      internalID: -206750301645929563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_21
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 530
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f4b9ae5f631564daf4a6e5a4ab8784
+      internalID: 6232175870957659215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_22
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 540
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92f851fd0d0397449a9f820ab949a35
+      internalID: -1850336945101785673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_23
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 536
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29da6f8bbcea524bb5152ebad426045
+      internalID: 6077142943986353159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_24
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 533
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18a57c383cc40c42b516d11809caea7
+      internalID: 2246480989596701728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_25
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 534
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d3a11a2291fb04a84aefe023cd2421
+      internalID: 6838636427747906258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_26
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 528
+        width: 91
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8026ab831c4e20c49ae25c91251a2423
+      internalID: -8897353811242360562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_27
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 531
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7186c27e5d07133428cee5fe2814ddac
+      internalID: -8089192134147958348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_28
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 530
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7065f748fb94b084ab869ba9659b3875
+      internalID: -2626142354959476414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_29
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 540
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d97f987e0cba7409bbed222ea07562
+      internalID: -8722005515453783110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_30
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 536
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f977d33e90a6dd41aee34cd7c21b87c
+      internalID: 5963996750904559142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_31
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 533
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc10baf92d6b124d9b076fd95073966
+      internalID: 4602573826476276400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_32
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 534
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca33bf163b016c549a135a65f153f135
+      internalID: 7272431110825744003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 145
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c94ca21871943e40b35e1472afb193c
+      internalID: 1650411495257189214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_34
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 288
+        width: 186
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b20cfe41545e5c499853f33148b123a
+      internalID: -4087460352422794289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_35
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 288
+        width: 141
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1caec48e5c647ed4b81c4fa635154e4a
+      internalID: 6993246994405243860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_36
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 288
+        width: 203
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0ee93a2d5385b47973778e551183ef
+      internalID: -1190693808146217842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_37
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 288
+        width: 136
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e87e38791f5df04980040ace926b0d2
+      internalID: 2207945986381031613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_38
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 241
+        width: 140
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab0b44dc9ebe7941bd689f0ac23822f
+      internalID: 3177675776216833936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_39
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 192
+        width: 91
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad54dd7979ec5bb4a9346acb87983f01
+      internalID: 1243135037783345445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 196
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abd7fc9f32bb6c4a991eb5c25d16cfa
+      internalID: 5463559400550739777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_41
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 48
+        width: 145
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193d6e827b198af419baa200fe6fe99e
+      internalID: -1273269176220810476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_42
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 48
+        width: 186
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c671490763e0e224288bad2a8caa3e3e
+      internalID: 4795789274672709563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_43
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 48
+        width: 141
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007bbd9e3cd6d3b4cb32f60c0d059480
+      internalID: -7809523315585030911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_44
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 48
+        width: 204
+        height: 237
+      alignment: 9
+      pivot: {x: 0.49199513, y: 0.17617412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da1b7eee0c38264e86c97262130091f
+      internalID: -8494894030814372935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_45
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 48
+        width: 136
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bd69606fc82664ca4592021e0e8f40
+      internalID: -8919180761902621732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_46
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1
+        width: 140
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e8ab31cb17b684eadfd0ccacab8668
+      internalID: 3769916735289775008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 111
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e0e227a9b4a2e46aedff08a08ba539
+      internalID: 8071941613006474607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_48
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 121
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6adbd677f66a04fa3d5fa82a8e336e
+      internalID: 3458599286571274848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_49
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 117
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185a23d33b31b034e8276ab2c67bbcf2
+      internalID: -225305987797878327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 17
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134696d3a8b96b14a85691afcb70d0b9
+      internalID: 3376313771478540859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-tree-tile-based-video-game-rpg-maker-sprite-5ab4edf9cba5e2.9870094315218068418342_51
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 18
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bdc2c3549596b74bbea8ce8f332a6ba
+      internalID: -5534966171371142994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

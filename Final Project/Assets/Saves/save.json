@@ -1,0 +1,58 @@
+{
+  "$type": "SaveFile, Assembly-CSharp",
+  "items": {
+    "$type": "System.Collections.Generic.List`1[[Item, Assembly-CSharp]], mscorlib",
+    "$values": []
+  },
+  "toolbarItems": {
+    "$type": "Item[], Assembly-CSharp",
+    "$values": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "equipment": {
+    "$type": "Armor[], Assembly-CSharp",
+    "$values": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "toolbarIndex": 0,
+  "equippedWeapon": null,
+  "stats": {
+    "$type": "Stats, Assembly-CSharp",
+    "MinWeaponAttack": 0.0,
+    "MaxWeaponAttack": 0.0,
+    "Attack": 0.0,
+    "AttackSpeed": 0.0,
+    "Defense": 0.0,
+    "CritChance": 5.0,
+    "CritDamage": 150.0,
+    "TotalExp": 0.0,
+    "CurrentExp": 0.0,
+    "Level": 1.0,
+    "ExpToNxtLv": 216.0
+  },
+  "position": {
+    "x": -1.78786826,
+    "y": -1.41213107,
+    "z": 0.0
+  },
+  "sceneName": "M1Scene",
+  "health": 200,
+  "maxHealth": 200,
+  "hunger": 65,
+  "thirst": 65,
+  "fatigue": 0
+}

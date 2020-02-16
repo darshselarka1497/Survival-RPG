@@ -1,0 +1,386 @@
+[
+    
+    {
+        "id": 300, 
+        "name": "Bronze Sword", 
+        "materials": 
+        [
+            {
+                "materialId":110,
+                "materialName":"Bronze Bar",
+                "materialQuantity": 3
+            }
+        ]
+    },
+    
+    {
+        "id": 301, 
+        "name": "Oak Bow", 
+        "materials": 
+        [
+            {
+                "materialId":200,
+                "materialName":"Oak Log",
+                "materialQuantity": 5
+            },
+            {
+                "materialId":10,
+                "materialName":"String",
+                "materialQuantity": 2
+            }
+        ]
+    },
+    
+    {
+        "id": 302, 
+        "name": "Bronze Helm", 
+        "materials": 
+        [
+            {
+                "materialId":110,
+                "materialName":"Bronze Bar",
+                "materialQuantity": 3
+            }
+        ]
+    },
+
+    {
+        "id": 303, 
+        "name": "Bronze Chestplate", 
+        "materials": 
+        [
+            {
+                "materialId":110,
+                "materialName":"Bronze Bar",
+                "materialQuantity": 5
+            }
+        ]
+    },
+    
+    {
+        "id": 304, 
+        "name": "Bronze Legs", 
+        "materials": 
+        [
+            {
+                "materialId":110,
+                "materialName":"Bronze Bar",
+                "materialQuantity": 4
+            }
+        ]
+    },
+    
+    {
+        "id": 305, 
+        "name": "Bronze Gauntlets", 
+        "materials": 
+        [
+            {
+                "materialId":110,
+                "materialName":"Bronze Bar",
+                "materialQuantity": 2
+            }
+        ]
+    },
+    
+    {
+        "id": 306, 
+        "name": "Bronze Boots", 
+        "materials": 
+        [
+            {
+                "materialId":110,
+                "materialName":"Bronze Bar",
+                "materialQuantity": 2
+            }
+        ]
+    },
+    
+    {
+        "id": 310, 
+        "name": "Iron Sword", 
+        "materials": 
+        [
+            {
+                "materialId":111,
+                "materialName":"Iron Bar",
+                "materialQuantity": 3
+            }
+        ]
+    },
+    
+    {
+        "id": 311, 
+        "name": "Maple Bow", 
+        "materials": 
+        [
+            {
+                "materialId":201,
+                "materialName":"Maple Log",
+                "materialQuantity": 5
+            },
+            {
+                "materialId":10,
+                "materialName":"String",
+                "materialQuantity": 3
+            }
+        ]
+    },
+    
+    {
+        "id": 312, 
+        "name": "Iron Helm", 
+        "materials": 
+        [
+            {
+                "materialId":111,
+                "materialName":"Iron Bar",
+                "materialQuantity": 3
+            }
+        ]
+    },
+
+    {
+        "id": 313, 
+        "name": "Iron Chestplate", 
+        "materials": 
+        [
+            {
+                "materialId":111,
+                "materialName":"Iron Bar",
+                "materialQuantity": 5
+            }
+        ]
+    },
+    
+    {
+        "id": 314, 
+        "name": "Iron Legs", 
+        "materials": 
+        [
+            {
+                "materialId":111,
+                "materialName":"Iron Bar",
+                "materialQuantity": 4
+            }
+        ]
+    },
+    
+    {
+        "id": 315, 
+        "name": "Iron Gauntlets", 
+        "materials": 
+        [
+            {
+                "materialId":111,
+                "materialName":"Iron Bar",
+                "materialQuantity": 2
+            }
+        ]
+    },
+    
+    {
+        "id": 316, 
+        "name": "Iron Boots", 
+        "materials": 
+        [
+            {
+                "materialId":111,
+                "materialName":"Iron Bar",
+                "materialQuantity": 2
+            }
+        ]
+    },
+    
+    {
+        "id": 320, 
+        "name": "Gold Sword", 
+        "materials": 
+        [
+            {
+                "materialId":112,
+                "materialName":"Gold Bar",
+                "materialQuantity": 3
+            }
+        ]
+    },
+    
+    {
+        "id": 321, 
+        "name": "Elder Bow", 
+        "materials": 
+        [
+            {
+                "materialId":201,
+                "materialName":"Maple Log",
+                "materialQuantity": 5
+            },
+            {
+                "materialId":10,
+                "materialName":"String",
+                "materialQuantity": 3
+            }
+        ]
+    },
+    
+    {
+        "id": 322, 
+        "name": "Gold Helm", 
+        "materials": 
+        [
+            {
+                "materialId":112,
+                "materialName":"Gold Bar",
+                "materialQuantity": 3
+            }
+        ]
+    },
+
+    {
+        "id": 323, 
+        "name": "Gold Chestplate", 
+        "materials": 
+        [
+            {
+                "materialId":112,
+                "materialName":"Gold Bar",
+                "materialQuantity": 5
+            }
+        ]
+    },
+    
+    {
+        "id": 324, 
+        "name": "Gold Legs", 
+        "materials": 
+        [
+            {
+                "materialId":112,
+                "materialName":"Gold Bar",
+                "materialQuantity": 4
+            }
+        ]
+    },
+    
+    {
+        "id": 325, 
+        "name": "Gold Gauntlets", 
+        "materials": 
+        [
+            {
+                "materialId":112,
+                "materialName":"Gold Bar",
+                "materialQuantity": 2
+            }
+        ]
+    },
+    
+    {
+        "id": 326, 
+        "name": "Gold Boots", 
+        "materials": 
+        [
+            {
+                "materialId":112,
+                "materialName":"Gold Bar",
+                "materialQuantity": 2
+            }
+        ]
+    },
+    
+    {
+        "id": 340, 
+        "name": "Cursed Sword", 
+        "materials": 
+        [
+            {
+                "materialId":114,
+                "materialName":"Cursed Bar",
+                "materialQuantity": 3
+            }
+        ]
+    },
+    
+    {
+        "id": 341, 
+        "name": "Ancient Bow", 
+        "materials": 
+        [
+            {
+                "materialId":201,
+                "materialName":"Maple Log",
+                "materialQuantity": 5
+            },
+            {
+                "materialId":10,
+                "materialName":"String",
+                "materialQuantity": 3
+            }
+        ]
+    },
+    
+    {
+        "id": 342, 
+        "name": "Cursed Helm", 
+        "materials": 
+        [
+            {
+                "materialId":114,
+                "materialName":"Cursed Bar",
+                "materialQuantity": 3
+            }
+        ]
+    },
+
+    {
+        "id": 343, 
+        "name": "Cursed Chestplate", 
+        "materials": 
+        [
+            {
+                "materialId":114,
+                "materialName":"Cursed Bar",
+                "materialQuantity": 5
+            }
+        ]
+    },
+    
+    {
+        "id": 344, 
+        "name": "Cursed Legs", 
+        "materials": 
+        [
+            {
+                "materialId":114,
+                "materialName":"Cursed Bar",
+                "materialQuantity": 4
+            }
+        ]
+    },
+    
+    {
+        "id": 345, 
+        "name": "Cursed Gauntlets", 
+        "materials": 
+        [
+            {
+                "materialId":114,
+                "materialName":"Cursed Bar",
+                "materialQuantity": 2
+            }
+        ]
+    },
+    
+    {
+        "id": 346, 
+        "name": "Cursed Boots", 
+        "materials": 
+        [
+            {
+                "materialId":114,
+                "materialName":"Cursed Bar",
+                "materialQuantity": 2
+            }
+        ]
+    }
+]

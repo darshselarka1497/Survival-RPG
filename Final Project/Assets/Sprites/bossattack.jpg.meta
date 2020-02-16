@@ -1,0 +1,583 @@
+fileFormatVersion: 2
+guid: 4942e63cfa1b2374189c7a5e98f04500
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7588715916042580035
+    second: bossattack_0
+  - first:
+      213: -7846391957450945686
+    second: bossattack_1
+  - first:
+      213: 4185935141832163346
+    second: bossattack_2
+  - first:
+      213: 6730213704541743004
+    second: bossattack_3
+  - first:
+      213: -3255775865662933180
+    second: bossattack_4
+  - first:
+      213: -6882255798611549092
+    second: bossattack_5
+  - first:
+      213: 2370323918131824473
+    second: bossattack_6
+  - first:
+      213: 8823167751649563262
+    second: bossattack_7
+  - first:
+      213: -5321558344862925523
+    second: bossattack_8
+  - first:
+      213: 4023876177325828261
+    second: bossattack_9
+  - first:
+      213: 2684477569637375148
+    second: bossattack_10
+  - first:
+      213: -2312284657146021307
+    second: bossattack_11
+  - first:
+      213: 3320245759432911356
+    second: bossattack_12
+  - first:
+      213: 8707798235005731299
+    second: bossattack_13
+  - first:
+      213: -7121423343677794405
+    second: bossattack_14
+  - first:
+      213: -311962088168835568
+    second: bossattack_15
+  - first:
+      213: 5618943659680187897
+    second: bossattack_16
+  - first:
+      213: -3481486506940097636
+    second: bossattack_17
+  - first:
+      213: -5964432273826053909
+    second: bossattack_18
+  - first:
+      213: -5896174598207898103
+    second: bossattack_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bossattack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 563
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3437547e4e11e49ba5eb934e277391
+      internalID: -7588715916042580035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossattack_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 563
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb67bb6768cfef499f5adb82e06766f
+      internalID: -7846391957450945686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossattack_2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 563
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67b29d98c489eb418aab344fd020243
+      internalID: 4185935141832163346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossattack_3
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 563
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49aaf5c5044a72443b89fca387552721
+      internalID: 6730213704541743004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossattack_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d56d425d20d2e4e8ea9c8a18afc636
+      internalID: -3255775865662933180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossattack_5
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 450
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f9bdb2c47470e4eb5560d9cd56b9df
+      internalID: -6882255798611549092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossattack_6
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 450
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd66051bb19bac4cac8561f4c8bbedd
+      internalID: 2370323918131824473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossattack_7
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 450
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe83fe186abbd6428a1e3a9e3531fc7
+      internalID: 8823167751649563262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossattack_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 337
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e075a211375638419fdc236a241a53d
+      internalID: -5321558344862925523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossattack_9
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 337
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3dbfede93f0d1b4ab87968dadd0ad77
+      internalID: 4023876177325828261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossattack_10
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 337
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe3cb08998b26c48bfa30936a90ebca
+      internalID: 2684477569637375148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossattack_11
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 337
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e797e9d82463f34db3293a07cd64200
+      internalID: -2312284657146021307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossattack_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf54842e89c3d7f40ab8fc0b577e4fe1
+      internalID: 3320245759432911356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossattack_13
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 224
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0f348a548b0004b946b1719a092028
+      internalID: 8707798235005731299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossattack_14
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 224
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f83dfdff9ee0c44a4c6f7b00ca3994
+      internalID: -7121423343677794405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossattack_15
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 224
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0415114fd0461bb4990ec73cb5f050a2
+      internalID: -311962088168835568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossattack_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b79951068188b498435dc32bab2397
+      internalID: 5618943659680187897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossattack_17
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 111
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a97e4797c07bb645901bfc8116e9754
+      internalID: -3481486506940097636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossattack_18
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 111
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4cde39cb62bdd4d8e7649aa0d445d2
+      internalID: -5964432273826053909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossattack_19
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 111
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0560a31f055cd458783422e6cfdd3d
+      internalID: -5896174598207898103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,79 @@
+{
+  "$type": "SaveFile, Assembly-CSharp",
+  "items": {
+    "$type": "System.Collections.Generic.List`1[[Item, Assembly-CSharp]], mscorlib",
+    "$values": [
+      {
+        "$type": "Item, Assembly-CSharp",
+        "Id": 1,
+        "Name": "Pickaxe",
+        "Type": "Pickaxe",
+        "Stackable": false,
+        "Quantity": 1,
+        "Description": null,
+        "SpritePath": "Items/item_1"
+      },
+      {
+        "$type": "Item, Assembly-CSharp",
+        "Id": 2,
+        "Name": "Axe",
+        "Type": "Axe",
+        "Stackable": false,
+        "Quantity": 1,
+        "Description": null,
+        "SpritePath": "Items/item_2"
+      }
+    ]
+  },
+  "toolbarItems": {
+    "$type": "Item[], Assembly-CSharp",
+    "$values": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "equipment": {
+    "$type": "Armor[], Assembly-CSharp",
+    "$values": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "toolbarIndex": 0,
+  "equippedWeapon": null,
+  "stats": {
+    "$type": "Stats, Assembly-CSharp",
+    "MinWeaponAttack": 0.0,
+    "MaxWeaponAttack": 0.0,
+    "Attack": 0.0,
+    "AttackSpeed": 0.0,
+    "Defense": 0.0,
+    "CritChance": 5.0,
+    "CritDamage": 150.0,
+    "TotalExp": 0.0,
+    "CurrentExp": 0.0,
+    "Level": 1.0,
+    "ExpToNxtLv": 216.0
+  },
+  "position": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "sceneName": "M1Scene",
+  "health": 200,
+  "maxHealth": 200,
+  "hunger": 100,
+  "thirst": 100,
+  "fatigue": 0
+}

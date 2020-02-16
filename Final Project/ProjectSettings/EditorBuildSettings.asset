@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: ee489fc0575b63847966321bfd0ca35b
+  - enabled: 1
+    path: Assets/Scenes/InitialScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/PuzzleRoom.unity
+    guid: 72d710eb5138d7541ae6e335ac00ed6e
+  - enabled: 1
+    path: Assets/Scenes/M1Scene.unity
+    guid: eafe3e116aee2d84b90540589644c30f
+  - enabled: 1
+    path: Assets/Scenes/FourthBoss.unity
+    guid: 8cd6bd43e20c3534f80abb87bda16710
+  - enabled: 0
+    path: Assets/Scenes/M2Scene.unity
+    guid: 8382b21c8a4e4864ba3ab81a8af60d3d
+  - enabled: 1
+    path: Assets/Scenes/FirstBoss.unity
+    guid: e7ab3ff633b31e74d80f4174ac278a85
+  - enabled: 1
+    path: Assets/Scenes/SecondTreasureRoom.unity
+    guid: 72a1e742920ebce448484bd864486ce7
+  - enabled: 1
+    path: Assets/Scenes/SecondBoss.unity
+    guid: 7206759bf32efd1478364a4dffdbad2e
+  - enabled: 1
+    path: Assets/Scenes/FirstTreasureRoom.unity
+    guid: 5d9ed62d96c463641ad2dfcab366bfcb
+  - enabled: 1
+    path: Assets/Scenes/Route2.unity
+    guid: 6939b1b3fa5f82e4f924d46db8b7d322
+  - enabled: 1
+    path: Assets/Scenes/Route3.unity
+    guid: 7361cb6bc9f40674d8edc1d1b147abbc
+  - enabled: 1
+    path: Assets/Scenes/ThirdBoss.unity
+    guid: e2149cb43d24f54488320d9c5352ab71
+  - enabled: 1
+    path: Assets/Scenes/Route4.unity
+    guid: a9c5e2cdbf71121488a0ce37eee5ed39
+  - enabled: 1
+    path: Assets/Scenes/ThirdTreasureRoom.unity
+    guid: 30187353d4087054cb4b1c28b9e91168
+  - enabled: 1
+    path: Assets/Scenes/FourthTreasureRoom.unity
+    guid: 7b762872dabf1b64c80c80db3ad494b7
+  m_configObjects: {}

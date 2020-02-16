@@ -1,0 +1,54 @@
+[
+    
+{
+    "id": 110, 
+    "name": "Bronze Bar", 
+    "materials": 
+    [
+        {
+            "materialId":100,
+            "materialName":"Copper Ore",
+            "materialQuantity": 1
+        }
+    ]
+},
+
+{
+    "id": 111, 
+    "name": "Iron Bar", 
+    "materials": 
+    [
+        {
+            "materialId":101,
+            "materialName":"Iron Ore",
+            "materialQuantity": 1
+        }
+    ]
+},
+
+{
+    "id": 112, 
+    "name": "Gold Bar", 
+    "materials": 
+    [
+        {
+            "materialId":102,
+            "materialName":"Gold Ore",
+            "materialQuantity": 1
+        }
+    ]
+},
+
+{
+    "id": 114, 
+    "name": "Cursed Bar", 
+    "materials": 
+    [
+        {
+            "materialId":104,
+            "materialName":"Cursed Ore",
+            "materialQuantity": 1
+        }
+    ]
+}
+]
